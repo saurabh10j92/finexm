@@ -3,7 +3,7 @@ color:blue;
 text-align: right;
 float: right;
 }
-.leftbox{
+.leftBox{
 float: left;
 }
 h1{
@@ -15,7 +15,11 @@ h3{
 	text-align: center;
 
 }
-.rightbox{
+.rightBox{
 	float: right;
 	
 }
+.centerBox{
+	align-items:center;
+}
+
