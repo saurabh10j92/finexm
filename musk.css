@@ -1,15 +1,21 @@
-p{
+*{
 color:blue;
 text-align: right;
-float: left;
-
+float: right;
 }
 .leftbox{
-align-items: left;
+float: left;
 }
 h1{
 
 	font-color: red
-	text:underline;
+	
+}
+h3{
+	text-align: center;
 
+}
+.rightbox{
+	float: right;
+	
 }
